@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Favour Andrew
-- 👀 I’m interested in web development and UI/UX design
-- 🌱 I’m currently learning HTML CSS,JavaScript
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning java kotlin
 - 💞️ I’m looking to collaborate on freelance  projects
 - 📫 How to reach me email me @favourandrew795@gmail.com
 
