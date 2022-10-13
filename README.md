@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Favour Andrew
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning java kotlin
+- 🌱 I’m currently learning java and kotlin
 - 💞️ I’m looking to collaborate on freelance  projects
 - 📫 How to reach me email me @favourandrew795@gmail.com
 
